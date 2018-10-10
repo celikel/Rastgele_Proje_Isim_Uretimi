@@ -1,4 +1,4 @@
-# Rastgele Proje İsim Üreteci
+# Rastgele Proje İsmi Üreteci
 
 Bir projede ilk adım proje için anlamlı bir kod adı belirlemektir.  Proje kod adlarının mutlaka 
 proje içeriğini yansıtması gerekmez.  İsmin kolayca hatırlanabilir olması ve bir parça özgün 
